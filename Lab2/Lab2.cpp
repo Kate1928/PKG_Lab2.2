@@ -58,14 +58,8 @@ int main()
 
     RenderWindow window(VideoMode(400, 400), "Lab2");
 
-    //window.setVerticalSyncEnabled(true);
-
-    /*CircleShape shape(100.f, 3);
-    shape.setPosition(100, 100);
-    shape.setFillColor(Color::Magenta);*/
-
     ifstream file;
-    file.open("File2");
+    file.open("File4");
     char byte1;
     char byte2;
     unsigned int header[4], leftMove = 0;
@@ -139,6 +133,7 @@ int main()
     }
     window.clear(Color::Black);
     texture.update(pixels);
+    //sprite.setScale(10.0, 10.0);
     window.draw(sprite);
     window.display();
 
