@@ -1,0 +1,7 @@
+﻿  Lab2.cpp
+D:\PKG\Lab2\Lab2\Lab2.cpp(35,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PKG\Lab2\Lab2\Lab2.cpp(99,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PKG\Lab2\Lab2\Lab2.cpp(130,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PKG\Lab2\Lab2\Lab2.cpp(114,29): warning C4101: bit: неиспользованная локальная переменная
+D:\PKG\Lab2\Lab2\Lab2.cpp(98,10): warning C4101: rgb: неиспользованная локальная переменная
+  Lab2.vcxproj -> D:\PKG\Lab2\x64\Debug\Lab2.exe
