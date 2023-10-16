@@ -1,8 +1,8 @@
 ﻿  PKG2.cpp
-D:\PKG\Lab2\PKG2\PKG2\PKG2.cpp(385,23): warning C4018: <: несоответствие типов со знаком и без знака
-D:\PKG\Lab2\PKG2\PKG2\PKG2.cpp(446,23): warning C4018: <: несоответствие типов со знаком и без знака
-D:\PKG\Lab2\PKG2\PKG2\PKG2.cpp(485,23): warning C4018: <: несоответствие типов со знаком и без знака
-D:\PKG\Lab2\PKG2\PKG2\PKG2.cpp(499,23): warning C4018: <: несоответствие типов со знаком и без знака
-D:\PKG\Lab2\PKG2\PKG2\PKG2.cpp(462,29): warning C4101: bit: неиспользованная локальная переменная
-D:\PKG\Lab2\PKG2\PKG2\PKG2.cpp(445,10): warning C4101: rgb: неиспользованная локальная переменная
+D:\PKG\Lab2\PKG2\PKG2\PKG2.cpp(206,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PKG\Lab2\PKG2\PKG2\PKG2.cpp(267,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PKG\Lab2\PKG2\PKG2\PKG2.cpp(318,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PKG\Lab2\PKG2\PKG2\PKG2.cpp(297,10): warning C4101: newARGB: неиспользованная локальная переменная
+D:\PKG\Lab2\PKG2\PKG2\PKG2.cpp(283,35): warning C4101: bit: неиспользованная локальная переменная
+D:\PKG\Lab2\PKG2\PKG2\PKG2.cpp(266,10): warning C4101: rgb: неиспользованная локальная переменная
   PKG2.vcxproj -> D:\PKG\Lab2\PKG2\x64\Debug\PKG2.exe

@@ -1,7 +1,11 @@
 ﻿  Lab2.cpp
-D:\PKG\Lab2\Lab2\Lab2.cpp(35,23): warning C4018: <: несоответствие типов со знаком и без знака
-D:\PKG\Lab2\Lab2\Lab2.cpp(93,23): warning C4018: <: несоответствие типов со знаком и без знака
-D:\PKG\Lab2\Lab2\Lab2.cpp(124,23): warning C4018: <: несоответствие типов со знаком и без знака
-D:\PKG\Lab2\Lab2\Lab2.cpp(108,29): warning C4101: bit: неиспользованная локальная переменная
-D:\PKG\Lab2\Lab2\Lab2.cpp(92,10): warning C4101: rgb: неиспользованная локальная переменная
+D:\PKG\Lab2\Lab2\Lab2.cpp(413,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PKG\Lab2\Lab2\Lab2.cpp(491,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PKG\Lab2\Lab2\Lab2.cpp(563,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PKG\Lab2\Lab2\Lab2.cpp(604,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PKG\Lab2\Lab2\Lab2.cpp(609,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PKG\Lab2\Lab2\Lab2.cpp(611,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PKG\Lab2\Lab2\Lab2.cpp(619,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PKG\Lab2\Lab2\Lab2.cpp(548,35): warning C4101: bit: неиспользованная локальная переменная
+D:\PKG\Lab2\Lab2\Lab2.cpp(471,10): warning C4101: rgb: неиспользованная локальная переменная
   Lab2.vcxproj -> D:\PKG\Lab2\x64\Debug\Lab2.exe
